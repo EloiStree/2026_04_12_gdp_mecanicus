@@ -1,8 +1,16 @@
 
 
+
 # Mecanicus
 
 > While working with Micro:bit simulations, I came across a lot of CNC and 3D-printed gears ;)
+
+
+**Use to sort in Issues:**
+**L**: Laser-able  
+**P**: Printable  
+**C**: CNC-able  
+
 
 [<img width="226" height="135" alt="image" src="https://github.com/user-attachments/assets/c7df8ad7-d52d-499a-91d8-924264bab0f2" />](https://www.pinterest.com/search/pins/?q=3D%20Printed%20Mechanisms&rs=typed)  
 [<img width="1000" height="599" alt="image" src="https://github.com/user-attachments/assets/db82770b-352b-4fcf-8de6-e11ff473fdc4" />](https://www.pinterest.com/search/pins/?q=3D%20Printed%20Mechanisms&rs=typed)    
