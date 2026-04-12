@@ -6,7 +6,7 @@
 > While working with Micro:bit simulations, I came across a lot of CNC and 3D-printed gears ;)
 
 
-**Use to sort in Issues:**
+**Use to sort in Issues:**   
 **L**: Laser-able  
 **P**: Printable  
 **C**: CNC-able  
